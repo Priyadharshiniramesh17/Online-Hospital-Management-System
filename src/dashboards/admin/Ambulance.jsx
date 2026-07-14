@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./ambulance.css";
+import "./Ambulance.css";
 
 export default function Ambulance() {
   const [ambulances] = useState([
